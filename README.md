@@ -8,7 +8,6 @@ Desarrollador multiplataforma en formación (2.º de DAM) en Zaragoza. Construyo
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| [**Respira**](https://joseluisperez.dev/proyectos/respira/) | App de respiración guiada para Android e iOS, por encargo de un cliente. Mide la respiración con el móvil sobre la tripa y el pulso con un pulsómetro Bluetooth. | Flutter · Dart · Riverpod |
 | [**DevPlanner**](https://joseluisperez.dev/proyectos/devplanner/) | Planificador personal autoalojable: capturar, planificar, hacer y revisar en una sola app. | Java 21 · Spring Boot · React |
 | [**polybot**](https://joseluisperez.dev/proyectos/polybot/) | Bot de copy-trading de baja frecuencia con laboratorio de datos propio, en simulación por defecto. Funciona 24/7 en un VPS. | Python · FastAPI · SQLite · systemd |
 | [**Shorts Factory**](https://joseluisperez.dev/proyectos/shorts/) | Fábrica local de Shorts narrativos: guion, voz, subtítulos, montaje y publicación programada. | Python · Flask · FFmpeg · LLM |
@@ -27,7 +26,6 @@ El código de la mayoría es privado porque son encargos o servicios en producci
 
 ## Ahora mismo
 
-- Llevando Respira a Google Play y App Store.
 - Preparando la certificación Oracle Certified Professional: Java SE 21 (1Z0-830).
 - Disponible para prácticas (FCT) y primer empleo en 2027.
 
